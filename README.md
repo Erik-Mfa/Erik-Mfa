@@ -2,7 +2,7 @@
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Erik</h1>
 <p align = "justify">
-  Programming student, Back-end lover, currently improving my skills. But, i like study too many topics related to front-end, like JavaScript, HTML,   CSS and others topics. I'm very curious and i like learn new things.
+  Programming student, Back-end lover, currently improving my skills. But, I like study too many topics related to front-end, like JavaScript, HTML,   CSS and others topics. I'm very curious and i like learn new things.
 </p>
 
 I currently go to college at Universidade Positivo [UP](https://www.up.edu.br/) <br/>
