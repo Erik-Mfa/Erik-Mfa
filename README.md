@@ -22,70 +22,37 @@
 
 ###
 
-<h2 align="center">👋 Hello! I'm Erik Matos Freitas</h2>
+<h1 align="center">👋 Hello! I'm Erik Matos Freitas</h1>
 
-###
-
-<h3 align="center">🚀 Company Founder | CTO | Project Manager | Full-Stack Developer</h3>
-
-###
+<h2 align="center">🚀 Founder & CTO | Full-Stack Developer</h2>
 
 <p align="center">
-  <strong>Founder & CTO at <a href="https://chapadevs.com" target="_blank">Chapadevs</a></strong> | Building scalable web solutions and leading digital transformation projects
+  <strong>Building scalable web solutions at <a href="https://chapadevs.com" target="_blank">Chapadevs</a></strong> | Riverside, New Jersey, USA
 </p>
 
 ###
 
-<h4 align="center">💼 About Me</h4>
+<h3 align="center">🌟 My Journey</h3>
 
 <p align="center">
-  Full-stack web developer and entrepreneur based in <strong>Riverside, New Jersey, USA</strong>. I specialize in end-to-end project management and development, from technical architecture to client delivery. With experience across the MERN stack, Java enterprise development, and modern web technologies, I help businesses transform their digital presence through scalable applications and strategic planning.
+  As a young <strong>Brazilian immigrant</strong>, I've built my career through diverse experiences across continents. My journey took me to <strong>Australia</strong>, where I completed my <strong>Certificate IV in Information Technology</strong> at Academies Australasia. That experience wasn't just about education—it was about building connections, gaining international perspective, and developing the resilience needed to thrive in tech.
 </p>
 
 <p align="center">
-  Currently leading <strong>Chapadevs</strong>, an IT consulting company focused on delivering comprehensive web development services, including full-stack development, domain/hosting configuration, email systems, and ongoing maintenance. I also serve as a Software Engineer at Revature, where I've completed enterprise-level Java training.
-</p>
-
-###
-
-<h4 align="center">🎯 What I Do</h4>
-
-<p align="center">
-  <strong>Project Management & Strategy:</strong> End-to-end project coordination, requirements analysis, technical architecture planning, and client relationship management<br>
-  <strong>Full-Stack Development:</strong> Building dynamic web applications using React, Node.js, Express, MongoDB, and modern JavaScript frameworks<br>
-  <strong>Backend Engineering:</strong> API development, database design, and server-side optimization<br>
-  <strong>DevOps & Infrastructure:</strong> Docker containerization, deployment, and hosting configuration
+  Today, I'm the <strong>Founder & CTO of Chapadevs</strong>, leading end-to-end web development projects while also serving as a Software Engineer at Revature, where I've completed enterprise-level Java training. From technical architecture to client delivery, I help businesses transform their digital presence.
 </p>
 
 ###
 
-<h4 align="center">🛠️ Tech Stack</h4>
+<h3 align="center">💼 What I Do</h3>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <strong>Frontend</strong><br>
-        React.js • JavaScript • HTML/CSS<br>
-        TailwindCSS • Bootstrap
-      </td>
-      <td align="center" width="200">
-        <strong>Backend</strong><br>
-        Node.js • Express.js • Java<br>
-        PHP • RESTful APIs
-      </td>
-      <td align="center" width="200">
-        <strong>Database</strong><br>
-        MongoDB • MySQL
-      </td>
-      <td align="center" width="200">
-        <strong>Tools & DevOps</strong><br>
-        Docker • Git/GitHub • Postman<br>
-        Agile Methodology
-      </td>
-    </tr>
-  </table>
+  <strong>Project Management & Strategy</strong> • <strong>Full-Stack Development</strong> • <strong>Backend Engineering</strong> • <strong>DevOps & Infrastructure</strong>
 </div>
+
+<p align="center">
+  MERN Stack • Java • React • Node.js • MongoDB • Docker • API Development
+</p>
 
 ###
 
@@ -97,56 +64,36 @@
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://chapadevs.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=vercel&label=Chapadevs&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="website logo"  />
+    <img src="https://img.shields.io/static/v1?message=Website&logo=globe&label=Website&color=22C55E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="website logo"  />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Erik-Mfa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Erik-Mfa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Erik-Mfa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Erik-Mfa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=Erik-Mfa&theme=dracula&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.demolab.com?user=Erik-Mfa&theme=dracula&hide_border=false&border_radius=5" height="180" alt="streak graph"  />
 </div>
 
 ###
 
-<h4 align="center">📊 Contribution Activity</h4>
-
-<p align="center">
-  <strong>1000+ commits</strong> and counting! Check out my contribution graph below to see my coding activity throughout the year. 🐍
-</p>
+<h3 align="center">📊 1000+ Commits & Counting</h3>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Erik-Mfa&theme=dracula&hide_border=false&area=true" alt="contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Erik-Mfa&theme=dracula&hide_border=true&area=true&height=300" alt="contribution graph" />
 </div>
 
 ###
 
-<h4 align="center">🌟 Featured Projects</h4>
-
 <p align="center">
-  Explore my pinned repositories below to see some of my recent work, including projects for <strong>Chapadevs</strong>, client websites, and full-stack applications.
+  <strong>Languages:</strong> English (Fluent) • Portuguese (Native)<br>
+  Open to collaboration and exciting opportunities!
 </p>
-
-###
-
-<h4 align="center">💬 Let's Connect</h4>
-
-<p align="center">
-  Open to collaboration on exciting projects, consulting opportunities, or just a chat about web development and technology!<br>
-  <strong>Languages:</strong> English (Fluent) • Portuguese (Native)
-</p>
-
-###
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Erik-Mfa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</div>
 
 ###
