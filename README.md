@@ -22,9 +22,9 @@
 
 ###
 
-<h1 align="center">👋 Erik Matos Freitas</h1>
+<h1 align="center">Erik Matos</h1>
 
-<h2 align="center">🚀 Founder & CTO @ Chapadevs | Software Engineer @ Revature</h2>
+<h2 align="center">Founder & CTO @ Chapadevs | Full-Stack Software Engineer @ Revature</h2>
 
 <p align="center">
   <strong><a href="https://chapadevs.com" target="_blank">Chapadevs</a></strong> | Riverside, New Jersey, USA
@@ -32,22 +32,10 @@
 
 ###
 
-<h3 align="center">🌟 Journey</h3>
+<h3 align="center">Experiences</h3>
 
 <p align="center">
-  Certificate IV in IT (Australia) → <strong>Revature Software Engineering Program</strong> → <strong>Founder & CTO at Chapadevs</strong>
-</p>
-
-###
-
-<h3 align="center">💼 Skills</h3>
-
-<p align="center">
-  <strong>MERN Stack</strong> • <strong>Java</strong> • <strong>React</strong> • <strong>Node.js</strong> • <strong>MongoDB</strong> • <strong>Docker</strong>
-</p>
-
-<p align="center">
-  Project Management • Full-Stack Development • Backend Engineering • DevOps
+  Analysis & Development of Systems (Associates Degree in Brazil) → Certificate IV in IT (Australia) → <strong>Revature Software Engineering Program</strong> → <strong>Founder & CTO at Chapadevs</strong>
 </p>
 
 ###
@@ -66,5 +54,11 @@
 <p align="center">
   English (Fluent) • Portuguese (Native)
 </p>
+
+###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Erik-Mfa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</div>
 
 ###
