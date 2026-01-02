@@ -63,30 +63,6 @@
   <a href="mailto:erikmfa19023@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://chapadevs.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=globe&label=Website&color=22C55E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="website logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Erik-Mfa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Erik-Mfa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=Erik-Mfa&theme=dracula&hide_border=false&border_radius=5" height="180" alt="streak graph"  />
-</div>
-
-###
-
-<h3 align="center">📊 1000+ Commits & Counting</h3>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Erik-Mfa&theme=dracula&hide_border=true&area=true&height=300" alt="contribution graph" />
 </div>
 
 ###
