@@ -35,11 +35,15 @@
 <h3 align="center">🌟 My Journey</h3>
 
 <p align="center">
-  As a young <strong>Brazilian immigrant</strong>, I've built my career through diverse experiences across continents. My journey took me to <strong>Australia</strong>, where I completed my <strong>Certificate IV in Information Technology</strong> at Academies Australasia. That experience wasn't just about education—it was about building connections, gaining international perspective, and developing the resilience needed to thrive in tech.
+  I've built my career through diverse experiences across continents, developing resilience and adaptability along the way. My journey took me to <strong>Australia</strong>, where I completed my <strong>Certificate IV in Information Technology</strong> at Academies Australasia. That experience wasn't just about education—it was about building connections, gaining international perspective, and developing the resilience needed to thrive in tech.
 </p>
 
 <p align="center">
-  Today, I'm the <strong>Founder & CTO of Chapadevs</strong>, leading end-to-end web development projects while also serving as a Software Engineer at Revature, where I've completed enterprise-level Java training. From technical architecture to client delivery, I help businesses transform their digital presence.
+  After completing my <strong>Certificate IV in Information Technology</strong> in Australia, I was selected for <strong>Revature's Software Engineering Program</strong>, where I completed intensive enterprise-level Java training and full-stack development. This rigorous program equipped me with advanced skills in Java, enterprise architecture, and modern software engineering practices.
+</p>
+
+<p align="center">
+  Today, I'm the <strong>Founder & CTO of Chapadevs</strong>, leading end-to-end web development projects while also serving as a <strong>Software Engineer at Revature</strong>. From technical architecture to client delivery, I help businesses transform their digital presence through scalable applications and strategic planning.
 </p>
 
 ###
@@ -52,6 +56,19 @@
 
 <p align="center">
   MERN Stack • Java • React • Node.js • MongoDB • Docker • API Development
+</p>
+
+###
+
+<h3 align="center">🎓 Professional Training</h3>
+
+<div align="center">
+  <strong>Revature Software Engineering Program</strong> (2025 - Present)<br>
+  Enterprise-level Java development • Full-stack engineering • Software architecture
+</div>
+
+<p align="center">
+  Selected and hired into Revature's competitive software engineering program, completing intensive training in Java enterprise development, modern frameworks, and industry best practices.
 </p>
 
 ###
