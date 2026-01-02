@@ -22,53 +22,32 @@
 
 ###
 
-<h1 align="center">👋 Hello! I'm Erik Matos Freitas</h1>
+<h1 align="center">👋 Erik Matos Freitas</h1>
 
-<h2 align="center">🚀 Founder & CTO | Full-Stack Developer</h2>
+<h2 align="center">🚀 Founder & CTO @ Chapadevs | Software Engineer @ Revature</h2>
 
 <p align="center">
-  <strong>Building scalable web solutions at <a href="https://chapadevs.com" target="_blank">Chapadevs</a></strong> | Riverside, New Jersey, USA
+  <strong><a href="https://chapadevs.com" target="_blank">Chapadevs</a></strong> | Riverside, New Jersey, USA
 </p>
 
 ###
 
-<h3 align="center">🌟 My Journey</h3>
+<h3 align="center">🌟 Journey</h3>
 
 <p align="center">
-  I've built my career through diverse experiences across continents, developing resilience and adaptability along the way. My journey took me to <strong>Australia</strong>, where I completed my <strong>Certificate IV in Information Technology</strong> at Academies Australasia. That experience wasn't just about education—it was about building connections, gaining international perspective, and developing the resilience needed to thrive in tech.
-</p>
-
-<p align="center">
-  After completing my <strong>Certificate IV in Information Technology</strong> in Australia, I was selected for <strong>Revature's Software Engineering Program</strong>, where I completed intensive enterprise-level Java training and full-stack development. This rigorous program equipped me with advanced skills in Java, enterprise architecture, and modern software engineering practices.
-</p>
-
-<p align="center">
-  Today, I'm the <strong>Founder & CTO of Chapadevs</strong>, leading end-to-end web development projects while also serving as a <strong>Software Engineer at Revature</strong>. From technical architecture to client delivery, I help businesses transform their digital presence through scalable applications and strategic planning.
+  Certificate IV in IT (Australia) → <strong>Revature Software Engineering Program</strong> → <strong>Founder & CTO at Chapadevs</strong>
 </p>
 
 ###
 
-<h3 align="center">💼 What I Do</h3>
-
-<div align="center">
-  <strong>Project Management & Strategy</strong> • <strong>Full-Stack Development</strong> • <strong>Backend Engineering</strong> • <strong>DevOps & Infrastructure</strong>
-</div>
+<h3 align="center">💼 Skills</h3>
 
 <p align="center">
-  MERN Stack • Java • React • Node.js • MongoDB • Docker • API Development
+  <strong>MERN Stack</strong> • <strong>Java</strong> • <strong>React</strong> • <strong>Node.js</strong> • <strong>MongoDB</strong> • <strong>Docker</strong>
 </p>
 
-###
-
-<h3 align="center">🎓 Professional Training</h3>
-
-<div align="center">
-  <strong>Revature Software Engineering Program</strong> (2025 - Present)<br>
-  Enterprise-level Java development • Full-stack engineering • Software architecture
-</div>
-
 <p align="center">
-  Selected and hired into Revature's competitive software engineering program, completing intensive training in Java enterprise development, modern frameworks, and industry best practices.
+  Project Management • Full-Stack Development • Backend Engineering • DevOps
 </p>
 
 ###
@@ -85,8 +64,7 @@
 ###
 
 <p align="center">
-  <strong>Languages:</strong> English (Fluent) • Portuguese (Native)<br>
-  Open to collaboration and exciting opportunities!
+  English (Fluent) • Portuguese (Native)
 </p>
 
 ###
